@@ -16,3 +16,27 @@
 > building systems, tools, and game logic from scratch
 > prefers control, clarity, and performance
 > learns by breaking and rebuilding
+```
+
+- ⚙️ C++ developer
+- 🌐 JavaScript toolmaker
+- 🐍 Python automation
+- 🐧 Linux user
+- 🎮 Game dev experiments
+
+---
+
+## 🧰 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=89CFF0)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B)
+![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+</p>
