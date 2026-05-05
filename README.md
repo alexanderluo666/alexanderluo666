@@ -1,16 +1,18 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Alexander 👾</h1>
 
-<!--
-**alexanderluo666/alexanderluo666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=140&section=header&text=System%20Online&fontSize=40&fontColor=cbd5e1&animation=fadeIn" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Systems+Builder;JavaScript+Toolmaker;Python+Automation+Engineer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧬 About
+
+```txt
+> building systems, tools, and game logic from scratch
+> prefers control, clarity, and performance
+> learns by breaking and rebuilding
