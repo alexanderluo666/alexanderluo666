@@ -46,9 +46,9 @@
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alexanderluo666&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderluo666&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderluo666&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&cache_seconds=1800" />
+
 
 </p>
 
