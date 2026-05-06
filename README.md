@@ -29,11 +29,28 @@
 
 ## 🧰 Tech Stack
 
-![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=89CFF0)
-![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B)
-![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=89CFF0" />
+<img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<br>
+<img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white" />
+
+</p>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alexanderluo666&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderluo666&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
 
 ---
 
