@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Systems+Builder;JavaScript+Toolmaker;Python+Automation+Engineer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Systems+Builder;JavaScript+Toolmaker;TypeScript+Game+Developer;Python+Automation+Engineer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
 </p>
 
 ---
@@ -20,6 +20,7 @@
 
 - ⚙️ C++ developer
 - 🌐 JavaScript toolmaker
+- 🎮 Typescript game developer
 - 🐍 Python automation
 - 🐧 Linux user
 - 🎮 Game dev experiments
@@ -30,6 +31,7 @@
 
 ![C++](https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=89CFF0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Linux](https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=white)
 
