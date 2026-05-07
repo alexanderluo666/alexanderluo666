@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Systems+Builder;JavaScript+Toolmaker;TypeScript+Game+Developer;Python+Automation+Engineer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=C%2B%2B+Systems+Builder;JavaScript+Toolmaker;TypeScript+Web+Developer;Python+Automation+Engineer;Low-level+Thinker&center=true&width=500&height=50&color=cbd5e1">
 </p>
 
 ---
@@ -20,7 +20,7 @@
 
 - ⚙️ C++ developer
 - 🌐 JavaScript toolmaker
-- 🎮 Typescript game developer
+- 🌐 Typescript web developer
 - 🐍 Python automation
 - 🐧 Linux user
 - 🎮 Game dev experiments
