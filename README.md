@@ -31,7 +31,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust" />
+<img src="https://img.shields.io/badge/Rust-0f172a?style=for-the-badge&logo=rust&logoColor=000000" />
 <img src="https://img.shields.io/badge/C++-0f172a?style=for-the-badge&logo=cplusplus&logoColor=89CFF0" />
 <img src="https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6" />
