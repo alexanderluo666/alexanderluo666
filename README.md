@@ -12,11 +12,11 @@
 
 ## 🧬 About
 
-
+```txt
 > building systems, tools, and game logic from scratch
 > prefers control, clarity, and performance
 > learns by breaking and rebuilding
-
+```
 
 - 🦀 Rust developer
 - ⚙️ C++ developer
@@ -54,6 +54,7 @@
 
 <img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alexanderluo666&theme=tokyonight" />
 
+<img height="165" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alexanderluo666&theme=tokyonight" />
 </p>
 
 ---
