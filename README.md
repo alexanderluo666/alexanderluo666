@@ -12,11 +12,11 @@
 
 ## 🧬 About
 
-```txt
+
 > building systems, tools, and game logic from scratch
 > prefers control, clarity, and performance
 > learns by breaking and rebuilding
-```
+
 
 - 🦀 Rust developer
 - ⚙️ C++ developer
